@@ -7,10 +7,11 @@ Software Engineer
 Sharing my everyday life as a programmer. Always learning something new
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [See my portfolio at](http://lidhanzayn.wixsite.com/alphacoder)
 * ✉️  You can contact me at [lidhanzayn@gmail.com](mailto:lidhanzayn@gmail.com)
 
-<a href="https://www.github.com/Sajillidhan" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/sajillidhan" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/sajillidhan?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a><a href="https://www.github.com/Sajillidhan" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Sajillidhan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
@@ -33,7 +34,7 @@ src="https://img.shields.io/github/followers/Sajillidhan?logo=github&style=for-t
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Sajillidhan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.facebook.com/sajil.lidhan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/Sajillidhan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/sajil_lidhan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sajil-lidhan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/sajil-lidhan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/sajillidhan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
@@ -54,7 +55,3 @@ src="https://img.shields.io/github/followers/Sajillidhan?logo=github&style=for-t
 <br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/Sajillidhan/React-Native-Using-Lex" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sajillidhan&repo=React-Native-Using-Lex&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/sa]]]]"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
